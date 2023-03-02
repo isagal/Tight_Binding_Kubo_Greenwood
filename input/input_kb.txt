@@ -1,0 +1,7 @@
+Calculation of DOS          : 0
+Calculation of diffusivity  : 0
+Calculation of conductivity : 1
+Diffusivity, starting time, begin (in fs) : 0.2
+Diffusivity, time step (in fs)            : 30.0
+Diffusivity, number of time steps         : 11
+Conductivity, time (in fs) : 10.0

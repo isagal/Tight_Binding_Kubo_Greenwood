@@ -1,0 +1,8 @@
+Number of sites in zigzag   (X) direction : 340
+Number of sites in armchair (Y) direction : 200
+Number of wave-packet sites along X       : 102
+Number of wave-packet sites along Y       : 64
+Continued fraction truncation term      : 10000
+Smoothing factor for continued fraction : 0.001
+Number of energy points                 : 3201
+Number of realizations (N of repeats)   : 20

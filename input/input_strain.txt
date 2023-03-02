@@ -1,0 +1,4 @@
+Uniaxial strain type (0 - no, 1 - x, 2 - y): 0
+Uniaxial strain size (0.2 - 20%): 0.0
+Shear strain type (0 - no, 1 - x, 2 - y, 3 - xy): 0
+Shear strain size (0.2 - 20%): 0.0

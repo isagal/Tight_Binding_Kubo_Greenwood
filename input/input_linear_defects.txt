@@ -1,0 +1,21 @@
+Number of lines: 0
+Potential type: 1
+Type of the lines: 2
+Correlation angle (from 0.0 to 1.0 in Pi units): 0.055
+
+__________
+
+Potential type:
+
+0 - charged [0;0.25]
+1 - neutral [-0.25;0.25]
+
+Possible types of the lines:
+
+0 - strictly zigzag oriented lines
+1 - strictly armchair oriented lines
+2 - randomly distributed lines
+3 - correlated lines with random   orientation of the first line
+4 - correlated lines with zigzag   orientation of the first line
+5 - correlated lines with armchair orientation of the first line
+

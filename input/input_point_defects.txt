@@ -1,0 +1,16 @@
+Potential            (t units) : 3.0
+Potential range, d   (a units) : 0.63
+RS weak   (1 u)    conc (in %) : 0.0
+RS strong (36u)    conc (in %) : 0.0 
+LRDP weak          conc (in %) : 0.0 
+Coulomb CI(+)      conc (in %) : 0.0
+Coulomb CI(-)      conc (in %) : 0.0 
+LRDP strong        conc (in %) : 0.0
+Graph_double  O (LRDP strong) conc (in %) : 0.0 
+Graph_double2 O (LRDP strong) conc (in %) : 0.0 
+Graph_double3 O (LRDP strong) conc (in %) : 0.0 
+Monomeric     O (LRDP strong) conc (in %) : 0.0 
+Dimeric       O (LRDP strong) conc (in %) : 0.5 
+__________
+
+Concentration of defects in range from 0.0 %  to 100.0 % 
